@@ -1,0 +1,1 @@
+javac -classpath .:../headless-r3b2-client/build/libs/com.liferay.headless.delivery.client-4.0.34.jar Test.java
